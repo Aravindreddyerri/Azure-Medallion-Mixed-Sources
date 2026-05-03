@@ -49,3 +49,20 @@ Azure SQL DB (Transactions, Products, Stores) + GitHub HTTP (Customers) -> ADLS 
 5. Join Silver datasets to create the final Gold reporting table.
 6. Load the Gold table into Azure SQL Database.
 7. Build reports in Power BI / Microsoft Fabric for analytics and sales reporting.
+
+
+
+
+<b>Dashboard </b>
+
+<img width="784" height="445" alt="Screenshot 2026-05-03 at 7 21 55 PM" src="https://github.com/user-attachments/assets/321ab27c-63cc-4c82-a9ff-916127adae68" />
+
+
+
+
+
+
+
+This project analyses sales by category,city and time.The dashbaord highlights the top-selling category,the best-performing city and allows year/quarter drill-down analysis.
+
+Sales are strongest in Electronics and Mumbai,and the report supports analysis by year and quarter.
